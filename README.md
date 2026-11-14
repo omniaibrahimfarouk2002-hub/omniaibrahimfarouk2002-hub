@@ -2,46 +2,49 @@
 
 ### Front-End Developer | From Mansoura, Dakahlia, Egypt 🇪🇬
 
-Graduated from Al-Safwa Higher Institute of Engineering - Communications & Electronics - Class of 2026 🎓
-I build beautiful, responsive websites with HTML, CSS & JavaScript.
-I love turning ideas into real projects people can use.
+I'm Omnia Ibrahim Farouk, a Front-End Developer graduated from Communications & Electronics Engineering in 2026.
+
+I love turning ideas into real projects people can use. I focus on clean code, modern design, and websites that work perfectly on mobile and laptop.
+
+**"I don't just write code, I build experiences."**
 
 ---
 
-### 🚀 My Projects
+### 🚀 My Projects - All Live
 
 | Project | Description | Live Demo |
 | :--- | :--- | :--- |
-| 🍔 **Omnia Restaurant** | Food ordering website with cart, filter & WhatsApp order | [View Live](https://omniaibrahimfarouk2002-hub.github.io/omnia-restaurant/) |
-| 🍔 **Omnia Restaurant Pro** | Advanced food ordering website with cart, filter & WhatsApp order | [View Live](https://omniaibrahimfarouk2002-hub.github.io/omnia-restaurant-pro/) |
-| 👗 **Omnia Fashion** | Fashion store with product details, filter by price, tracking & dark mode | [View Live](https://omniaibrahimfarouk2002-hub.github.io/omnia-fashion/) |
-| 🏥 **Omnia Clinic** | Smart medical booking system with symptoms suggestion, slots & patient file | [View Live](https://omniaibrahimfarouk2002-hub.github.io/omnia-clinic/) |
-| 🐱 **Cat Project** | Fun interactive cat project | [View on GitHub](https://github.com/omniaibrahimfarouk2002-hub) |
-| 🧮 **Calculator App** | Calculator with clean design | [View on GitHub](https://github.com/omniaibrahimfarouk2002-hub) |
-| 🧠 **Smart Game** | Smart memory game with JavaScript | [View on GitHub](https://github.com/omniaibrahimfarouk2002-hub) |
+| **Omnia Fashion** | Fashion store with filter by price, tracking & dark mode | [View Live](https://omniaibrahimfarouk2002-hub.github.io/Omnia-Fashion/) |
+| **Omnia Clinic** | Smart medical booking with symptoms suggestion, slots & patient file | [View Live](https://omniaibrahimfarouk2002-hub.github.io/Omnia-Clinic/) |
+| **Omnia Restaurant Pro** | Food ordering with cart, filter & WhatsApp order | [View Live](https://omniaibrahimfarouk2002-hub.github.io/Omnia-Restaurant-Pro/) |
+| **Cat App** | Fun interactive cat app | [View Live](https://omniaibrahimfarouk2002-hub.github.io/Cat-App/) |
+| **Calculator App** | Calculator with clean design | [View Live](https://omniaibrahimfarouk2002-hub.github.io/Calculator-App/) |
+| **Memory Match Game** | Memory matching game with JavaScript | [View Live](https://omniaibrahimfarouk2002-hub.github.io/Memory-Match-Game/) |
+| **Omnia Real Estate** | Real estate website to browse properties | [View Live](https://omniaibrahimfarouk2002-hub.github.io/Omnia-Real-Estate/) |
+| **Omnia React Shop** | E-commerce with React - Search, Filter, Cart, Favorites, Dark Mode & Checkout | [View Live](https://omniaibrahimfarouk2002-hub.github.io/Omnia-React-Shop/) |
+
+### 🌐 My Portfolio
+**[👉 Click here to see my Portfolio](https://omniaibrahimfarouk2002-hub.github.io/My-Portfolio/)**
 
 ---
 
 ### 🛠️ Skills
-
-- ✅ HTML - CSS - JavaScript
-- ✅ Responsive Design
-- ✅ LocalStorage - Cart System - Booking System
-- ✅ Git & GitHub - GitHub Pages
+`HTML` `CSS` `JavaScript` `React` `Responsive Design` `LocalStorage` `Cart System` `Booking System` `Git & GitHub` `GitHub Pages` `Web Apps & Games`
 
 ---
 
 ### 🎓 Education
-
-**Al-Safwa Higher Institute of Engineering**
-**Communications & Electronics - Graduated 2026 - Mansoura, Egypt**
+**Al-Safwa Higher Institute of Engineering**  
+Communications & Electronics - Graduated 2026 - Cairo, Egypt
 
 ---
 
-### 📫 Contact Me
-
+### 📞 Contact Me
 - 📍 Mansoura, Dakahlia, Egypt
-- 📞 01068348772
+- 📧 omniaibrahimfarouk2002@gmail.com
 - 💼 Open to: Junior Front-End - Freelance - Full-Time
 
-> "I don't just write code, I build experiences." - Omnia
+---
+
+⭐ Feel free to check my repos and give a star if you like my work!
+
